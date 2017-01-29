@@ -5,4 +5,6 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, IS105 gruppe")
 	fmt.Println("Test")
+fmt.Println("Rvd er her")
+
 }
