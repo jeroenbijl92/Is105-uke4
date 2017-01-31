@@ -4,7 +4,7 @@ import (
   "math"
 )
 
-func RegnUt() float64 {
-  var x float64 = 2
-  var y = math.Log2(x)
-  return y
+
+func Logresult (number float64) float64 {
+return math.Log(number) / math.Log(2)
+}
