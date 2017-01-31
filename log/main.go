@@ -3,7 +3,7 @@ package main
 import "fmt"
 import "os"
 import "strconv"
-import "log"
+import "./log"
 
 
 
